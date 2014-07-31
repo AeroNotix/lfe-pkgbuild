@@ -12,7 +12,7 @@ makedepends=('git' 'erlang')
 provides=('lfe')
 source=('git://github.com/AeroNotix/lfe.git')
 md5sums=('SKIP')
-
+install=install
 
 build() {
   cd $pkgname

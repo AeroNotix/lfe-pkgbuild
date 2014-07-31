@@ -1,0 +1,4 @@
+post_install() {
+    msg "You will need to add the LFE paths to your PATH to have access to them!";
+    msg "Most likely these are in /usr/lib/erlang/lfe-VERSION";
+}
