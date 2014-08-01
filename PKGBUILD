@@ -10,7 +10,7 @@ license=('Apache')
 depends=('erlang')
 makedepends=('git' 'erlang')
 provides=('lfe')
-source=('git://github.com/AeroNotix/lfe.git')
+source=('git://github.com/rvirding/lfe.git')
 md5sums=('SKIP')
 install='msg.install'
 
